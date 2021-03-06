@@ -12,5 +12,13 @@
     "Igwe Chinonso",
     "nonso",
     "Igwe"
-  ]
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "chiboycalix/chinonso",
+  "author": {
+    "name": "Igwe Chinonso",
+    "email": "igwechinonso77@gmail.com",
+    "url": "https://twitter.com/thorsgardian_"
+  }
 }
