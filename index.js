@@ -7,8 +7,8 @@ welcome({
   tagLine: `Howdy, nice to meet you`,
   description: pkgJson.description,
   version: pkgJson.version,
-  bgColor: `#FADC00`,
-  color: `#000000`,
+  bgColor: `#228B22`,
+  color: `#ffffff`,
   bold: true,
   clear: true
 })
